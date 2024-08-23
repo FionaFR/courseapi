@@ -1,0 +1,4 @@
+com\example\courseapi\controller\CourseController.class
+com\example\courseapi\CourseApiApplication.class
+com\example\courseapi\model\Course.class
+com\example\courseapi\repository\CourseRepository.class
